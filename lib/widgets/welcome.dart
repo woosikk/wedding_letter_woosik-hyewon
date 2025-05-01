@@ -48,7 +48,7 @@ Widget _buildTitle() {
       Container (
         height: 340.0,
         child: Image.asset(
-          'assets/images/wedding_cover.jpeg',
+          'assets/images/wedding_cover.jpg',
           fit: BoxFit.fitWidth,
         ),
       ),
